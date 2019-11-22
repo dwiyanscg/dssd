@@ -176,6 +176,13 @@
     border-top: 3px solid black;
 }
 
+
+/* Footer */
+
+.footer-copyright {
+    background-color: black;
+}
+
 @media (min-width: 992px) {
     .navbar-nav {
         margin-left: 190px;
